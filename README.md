@@ -1,12 +1,9 @@
 # 👋 Hello! I'm Salah Derbas (https://sd-softwares.vercel.app/)
 
- I am **Software Engineer** with ~5 years of experience,I'm interested in **Full Stack Developer** & **Backend Developer** & **Frontend Developer** ,I have experience in finding creative solutions to technical challenges. I can create a responsive design with clean and professional code. 
+ I am **Full Stack Developer** with ~5 years of experience,I'm interested in **Software Engineer** & **Backend Developer** & **Frontend Developer** ,I have experience in finding creative solutions to technical challenges. I can create a responsive design with clean and professional code. 
 
 ## 🚀 Career Objective
-Fast learner, geek, hard worker and passionate for learning the last technologies.
-Currently a I am focusing on web development with open source technologies.
-I enjoy writing code with an good architecture and best practices techniques.
-Skilled in database management using SQL and MySQL databases.
+🌱 With 5+ years of experience building scalable web applications, RESTful APIs, and dashboards using Laravel, PHP, React.js, and MySQL. Strong background in system design, database optimization, API development, and payment gateway integration. Experienced in delivering B2B / B2C platforms, e-commerce systems, HR and management platforms with clean architecture and high performance.
 
 ## 🎓 Education
 **Bachelor’s Degree in Faculty of Informatics Engineering**  
@@ -89,11 +86,11 @@ type of file Messages are sent in real-time.
 
 
 ## 💼 Professional Experience
-**Media World, Jordan/Amman**  
-- Certified in Full Stack  (April 2023 – Present)  
-
 **Freelancer, Jordan/Amman - Syria/Damascus**  
 - Certified in Full Stack  (April 2020 – Present)  
+
+**Media World, Jordan/Amman**  
+- Certified in Full Stack  (April 2023 – May 2025)  
 
 **GEEL Tech, Jordan/Amman**  
 - Certified in Backend Developer  (September 2022 – March 2023)  

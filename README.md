@@ -89,6 +89,9 @@ type of file Messages are sent in real-time.
 **Freelancer, Jordan/Amman - Syria/Damascus**  
 - Certified in Full Stack  (April 2020 – Present)  
 
+**CSP, Saudi/Riyadh**  
+- Certified in Full Stack  (April 2025 – Present)  
+
 **Media World, Jordan/Amman**  
 - Certified in Full Stack  (April 2023 – May 2025)  
 

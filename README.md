@@ -255,7 +255,7 @@ https://github.com/SalahDerbas/Chat-in-Livewire
 
 ### CSP
 📍 Riyadh, Saudi Arabia  
-📅 April 2025 — Present
+📅 March 2025 — Present
 
 Full Stack Developer
 

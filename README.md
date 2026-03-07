@@ -1,135 +1,380 @@
-# 👋 Hello! I'm Salah Derbas (https://sd-softwares.vercel.app/)
+# 👋 Hello! I'm Salah Derbas
 
- I am **Full Stack Developer** with ~5 years of experience,I'm interested in **Software Engineer** & **Backend Developer** & **Frontend Developer** ,I have experience in finding creative solutions to technical challenges. I can create a responsive design with clean and professional code. 
+🌐 **Website:** https://salah-derbas.vercel.app/
 
-## 🚀 Career Objective
-🌱 With 5+ years of experience building scalable web applications, RESTful APIs, and dashboards using Laravel, PHP, React.js, and MySQL. Strong background in system design, database optimization, API development, and payment gateway integration. Experienced in delivering B2B / B2C platforms, e-commerce systems, HR and management platforms with clean architecture and high performance.
+I am a **Senior Full Stack Developer** with **5+ years of experience** building scalable SaaS platforms, RESTful APIs, and high-performance web applications.
 
-## 🎓 Education
-**Bachelor’s Degree in Faculty of Informatics Engineering**  
-Software Engineering, University of Damascus (October 2015 – July 2021)  
+I specialize in:
 
-
-## 🌟 Projects
-
-### [3abee] (https://3abee.com) | Laravel, API, MySQL , HTML5, CSS3, Bootstrap (April 2023 -  Present)
-- The application is one of the largest applications that have been worked on in Media World Company, and
-it is an application for selling cards that includes a website and mobile application in addition to a special control
-panel for admins and it includes B2B and B2C.
-
-### [HR](https://github.com/SalahDerbas/HR) | Laravel, API, MySQL  (Jan 2024)
-- This API provides endpoints for managing user authentication, HR-related tasks, and system settings. 
-- It is designed for use with a mobile or web application that interacts with an HR management system.
-
-### [School](https://github.com/SalahDerbas/School) | Laravel, API, MySQL , HTML5, CSS3, Bootstrap (Jan 2022)
-- Project School Management System Application in Laravel between Admin, Teachers,
-Student Parents, and StudentsThe project is based on a management process for the school's admin operations,
-including characteristics of teachers, students, and basic school resources.
-
-### [3abbeGO-eSIM] (https://3abeego.com/) | Laravel, API, MySQL  (Jan 2024 -  Present)
-- An application in the development stage to create a mobile application, and I worked on it as a
-programmer, developer, and analyst, aiming to sell Internet and communications packages, local or global, or...
-from several countries, through the virtual card in modern mobile phones.
-
-### [Payment-Gateways](https://github.com/SalahDerbas/Payment-Gateways) | Laravel, API, MySQL  (Oct 2024)
-- The goal of this project is to integrate multiple payment gateways (e.g., PayPal, PayMob, Tap, etc.) into a common platform,
-- Allowing users to make payments via different methods.
-- The system should abstract away the complexity of dealing with different APIs by creating a unified interface for the rest of the application.
-
-### [Resturant Management System](https://github.com/SalahDerbas/RestManagementSystem) | Laravel, jQuery, AJAX, MySQL , HTML5, CSS3, Bootstrap (Oct 2022)
-- The project is based on the process of managing the operations of the restaurant’s admin and the cashier’s operations for customers’ accounts, reservations for the restaurant by customers, and displaying products and invoices to customers.
-
-### [Mazadak](https://b2b.mazadak.sa/) | Laravel, PHP, API, MySQL (Nov 2022)
-- It is an application that was developed in several stages, ensuring that an item is published for sale, and
-then a date is set for the start of the auction, provided that several participants participate in it, and the sale process
-is completed on the application.
-
-### [FCNS](https://fncs-jo.com/) | Laravel, jQuery, AJAX, MySQL (May 2023)
-- It is a web application with a special control panel for displaying content and full control over the services of
-the company that owns the website, along with census operations for users of the website.
-
-### [BIO FOOD](https://biofood.website/) | Laravel, API, MySQL, MySQL (May 2023)
-- A web and mobile application that sells food and juices and has a special admin control panel.
-
-### [Invoice Management System](https://github.com/SalahDerbas/Invoicing_bill) | Laravel, jQuery, AJAX, MySQL , HTML5, CSS3, Bootstrap (Oct 2022)
-- Developed a system to track and categorize invoices and manage user permissions based on roles.
-
-### [E-commerce](https://github.com/SalahDerbas/E-commerce) | Laravel, jQuery, AJAX, MySQL , HTML5, CSS3, Bootstrap (Oct 2024)
-- An online store project to sell products on the website, which has an admin control panel and many
-services.   
-
-### [Dashboard-Advanced](https://github.com/SalahDerbas/Dashboard-Advanced) | Laravel, AJAX, MySQL , HTML5, CSS3, Bootstrap (Jan 2024)
-- This project is a complete admin control panel that contains many basic functions that are
-repeated in every project that is worked on from the beginning.   
-
-### [Company-Dynamic](https://github.com/SalahDerbas/Company-Dynamic) | Laravel, MySQL , HTML5, CSS3, Bootstrap (Jan 2023)
-- This project is a complete admin control panel that contains many basic functions that are
-repeated in every project that is worked on from the beginning.   
-
-### [Portfolio-Dynamic](https://github.com/SalahDerbas/PortfolioDynamic) | Laravel, MySQL , HTML5, CSS3, Bootstrap (Jan 2022)
-- This project is a complete admin control panel that contains many basic functions that are repeated in every project that is worked on from the beginning
-
-### [Chart](https://github.com/SalahDerbas/PortfolioDynamic) | Laravel , Canvas js , Ajax , MySQL , HTML5, CSS3, Bootstrap (Jan 2022)
-- The project is based on the process of displaying statistics for a secure CSV entry file to display the entries in the form of a statistical statement in a number of formats.
-- This project was worked on without using ready-made offices. It is a university-specific project from the Faculty of Information Engineering at the University of Damascus from the third year.
-
-
-### [Shopping](https://github.com/SalahDerbas/ShoppingReact) | React , HTML5, CSS3, Firebase (Jan 2022)
-
-### [Chat Application:](https://github.com/SalahDerbas/Chat-in-Livewire) | Laravel, Livewire, AJAX, MySQL (Sep 2022)
-- The project is based on the process of complete control of messages sent by the group’s admin
-and among the group’s members, each member individually. You can send a text message, video, photo, or any
-type of file Messages are sent in real-time.
-
-
-
-
-
-## 💼 Professional Experience
-**Freelancer, Jordan/Amman - Syria/Damascus**  
-- Certified in Full Stack  (April 2020 – Present)  
-
-**CSP, Saudi/Riyadh**  
-- Certified in Full Stack  (April 2025 – Present)  
-
-**Media World, Jordan/Amman**  
-- Certified in Full Stack  (April 2023 – May 2025)  
-
-**GEEL Tech, Jordan/Amman**  
-- Certified in Backend Developer  (September 2022 – March 2023)  
-
-**TandraTech, Syria/Damascus**  
-- Certified in Frontend Developer  (July 2021 – July 2022)  
-
-**StorexWeb, Syria/Damascus**  
-- Certified in Frontend Developer  (September 2020 – March 2021)  
-
-
-## 🛠️ Technical Skills
-- **Languages**: PHP, JavaScript , Ruby
-- **Front-End**: HTML5, CSS3, Bootstrap, Vue , React , Redux , Livewire , Firebase, jQuery 
-- **Back-End**: Laravel Framework , Rest Full API , 
-- **Databases**: SQL, MySQL
-- **Testing**: Jest, Unit Testing
-- **Tools**: Git, GitHub, BitBucket, Postman, VS Code, PHPStorm, Jira ,Trello, Linux, Docker, Jenkins
-- **Real-Time Communication**: Livewire , Ajax
-
-## 🗣️ Languages
-- **Arabic**:  Native
-- **English**: Proficient
-
-## 📞 Contact Information
-- **WebSite**: [SALAH DERBAS](https://sd-softwares.vercel.app/)
-- **Email**: [salahdrbas1@gmail.com](mailto:salahdrbas1@gmail.com)
-- **Phone**: +962785204657
-- **Whatsapp**: +962785204657
-- **Location**: JORDAN, AMMAN
-- **LinkedIn**: [Salah Derbas](https://www.linkedin.com/in/salah-derbas/)
-- **GitHub**: [SalahDerbas](https://github.com/SalahDerbas)
-- **Youtube**: [ ٍSalah Drbas](https://www.youtube.com/channel/UCEYTgaou2YKbymbC0mUnAhw)
-- **Facebook**: [Salah Drbas](https://www.facebook.com/salah.drbas.1)
-- **Instagram**: [salahdrbas](https://www.instagram.com/salahdrbas/)
+- Laravel
+- PHP
+- React.js
+- MySQL
+- System Architecture
+- Database Optimization
+- Payment Gateway Integration
 
 ---
 
-Feel free to check out my [GitHub repositories](https://github.com/SalahDerbas) to see more of my work and contributions!
+# 🚀 Career Objective
+
+Experienced in delivering **B2B & B2C platforms**, **e-commerce solutions**, and **enterprise dashboards** with a strong focus on:
+
+- Performance
+- Scalability
+- Clean and maintainable code
+
+---
+
+# 🎓 Education
+
+**B.Sc. in Informatics Engineering – Software Engineering**  
+University of Damascus  
+📅 October 2015 — July 2021
+
+Focused on:
+
+- Software Development
+- System Design
+- Databases
+- Full-Stack Engineering
+
+---
+
+# 🌟 Featured Projects
+
+## QR Menu System — StepsSite
+🌐 https://stepssite.com/  
+📅 01/2026 — Present
+
+- Built a **QR-based digital menu platform**
+- Customers browse and order directly from their phones
+- Web-first architecture (no app installation required)
+
+---
+
+## 3abeeGO — eSIM Platform
+🌐 https://3abeego.com/  
+📅 04/2024 — 04/2025
+
+- Developed backend and admin dashboard using **Laravel**
+- Built **mobile APIs**
+- Implemented **eSIM management and automated activation workflows**
+
+---
+
+## 3abee — Digital Cards Platform
+🌐 https://3abee.com/  
+📅 04/2023 — 04/2025
+
+- Developed full platform using **Laravel + React**
+- Built **Admin Dashboard**
+- Implemented **B2B & B2C digital services**
+
+---
+
+## CSP — Construction Specification Platform
+🌐 https://csp.sa/  
+📅 03/2025 — Present
+
+- Built contractor and consultant project management system
+- Backend using **Laravel + MySQL**
+- Interface using **Bootstrap**
+
+---
+
+## Hafiza & Fursan — Education Platform
+🌐 https://hafatha.com/  
+📅 01/2026 — Present
+
+- Platform connecting **admins, teachers, and students**
+- Built backend with **lesson management and progress tracking**
+
+---
+
+## Mazadak — Auction Platform
+🌐 https://b2b.mazadak.sa/  
+📅 09/2022 — 03/2023
+
+- Developed **auction workflows and bidding system**
+- Integrated **payment gateways**
+- Built REST APIs using **Laravel**
+
+---
+
+## BioFood — Food Ordering System
+🌐 https://biofood.website/  
+📅 09/2022 — 03/2023
+
+- Built backend APIs using **Laravel**
+- Integrated **Firebase for real-time updates**
+- Supported mobile & web ordering workflows
+
+---
+
+## Mueeen — Cloud Computing Platform
+🌐 https://mueeen.com/  
+📅 03/2025 — 06/2025
+
+- Platform providing remote computing access
+- Built scalable backend architecture
+
+---
+
+## FCNS — Management System
+🌐 https://fncs-jo.com/  
+📅 09/2022 — 03/2023
+
+- Built CMS and reporting dashboards
+- Integrated APIs for data management
+
+---
+
+## AlAndalus — Education Platform
+🌐 https://soraat.com/  
+📅 03/2025 — 07/2025
+
+- Platform connecting students and teachers
+- Backend systems for lessons and user management
+
+---
+
+## Haanot — Gold E-Commerce Platform
+🌐 https://haanot.com/  
+📅 01/2025 — 03/2025
+
+- Developed full **e-commerce system**
+- Implemented payment and product management
+
+---
+
+# 🧠 Open Source Projects
+
+### HR Management API
+https://github.com/SalahDerbas/HR
+
+- Authentication system
+- HR workflow APIs
+- Settings management
+
+---
+
+### School Management System
+https://github.com/SalahDerbas/School
+
+- Admin / Teacher / Student system
+- Laravel based school management platform
+
+---
+
+### Payment Gateways Integration
+https://github.com/SalahDerbas/Payment-Gateways
+
+- Unified interface for multiple gateways:
+  - PayPal
+  - PayMob
+  - Tap
+
+---
+
+### Restaurant Management System
+https://github.com/SalahDerbas/RestManagementSystem
+
+- Restaurant admin & cashier operations
+- Reservations and billing system
+
+---
+
+### Invoice Management System
+https://github.com/SalahDerbas/Invoicing_bill
+
+- Invoice tracking
+- Role-based permissions
+
+---
+
+### E-Commerce Platform
+https://github.com/SalahDerbas/E-commerce
+
+- Complete online store
+- Admin dashboard and product services
+
+---
+
+### Admin Dashboard Boilerplate
+https://github.com/SalahDerbas/Dashboard-Advanced
+
+- Ready-to-use admin dashboard structure
+- Core modules used across projects
+
+---
+
+### Dynamic Company Website
+https://github.com/SalahDerbas/Company-Dynamic
+
+- Dynamic company CMS with admin panel
+
+---
+
+### Portfolio CMS
+https://github.com/SalahDerbas/PortfolioDynamic
+
+- Dynamic portfolio management system
+
+---
+
+### Chart Statistics System
+https://github.com/SalahDerbas/PortfolioDynamic
+
+- CSV data visualization
+- Built using Canvas JS
+
+---
+
+### React Shopping App
+https://github.com/SalahDerbas/ShoppingReact
+
+- React + Firebase online store
+
+---
+
+### Live Chat Application
+https://github.com/SalahDerbas/Chat-in-Livewire
+
+- Real-time chat using **Laravel Livewire**
+
+---
+
+# 💼 Professional Experience
+
+### Freelance Full Stack Developer
+📍 Jordan / Syria  
+📅 April 2020 — Present
+
+---
+
+### CSP
+📍 Riyadh, Saudi Arabia  
+📅 April 2025 — Present
+
+Full Stack Developer
+
+---
+
+### Media World
+📍 Amman, Jordan  
+📅 April 2023 — May 2025
+
+Full Stack Developer
+
+---
+
+### GEEL Tech
+📍 Amman, Jordan  
+📅 September 2022 — March 2023
+
+Backend Developer
+
+---
+
+### TandraTech
+📍 Damascus, Syria  
+📅 July 2021 — July 2022
+
+Frontend Developer
+
+---
+
+### StorexWeb
+📍 Damascus, Syria  
+📅 September 2020 — March 2021
+
+Frontend Developer
+
+---
+
+# 🛠️ Technical Skills
+
+### Languages
+- PHP
+- JavaScript
+- Ruby
+
+### Backend
+- Laravel
+- REST API
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- Vue
+- React
+- Redux
+
+### Databases
+- MySQL
+- SQL
+
+### Tools
+- Git
+- GitHub
+- Bitbucket
+- Postman
+- VS Code
+- PHPStorm
+- Jira
+- Trello
+- Linux
+- Docker
+- Jenkins
+
+### Real-time
+- Livewire
+- AJAX
+
+### Testing
+- Jest
+- Unit Testing
+
+---
+
+# 🗣️ Languages
+
+- **Arabic:** Native  
+- **English:** Good (Reading, Writing, Speaking)
+
+---
+
+# 📞 Contact
+
+🌐 Website  
+https://salah-derbas.vercel.app/
+
+📧 Email  
+salahdrbas1@gmail.com
+
+📱 Phone / WhatsApp  
++962785204657
+
+📍 Location  
+Amman, Jordan
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/salah-derbas/
+
+💻 GitHub  
+https://github.com/SalahDerbas
+
+▶ YouTube  
+https://www.youtube.com/channel/UCEYTgaou2YKbymbC0mUnAhw
+
+📘 Facebook  
+https://www.facebook.com/salah.drbas.1
+
+📸 Instagram  
+https://www.instagram.com/salahdrbas/
+
+---
+
+⭐ **Open for freelance projects, full-time opportunities, and long-term collaborations worldwide.**
